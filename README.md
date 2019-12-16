@@ -1,3 +1,6 @@
+Forked to allow for custom state to be passed through the oauth process
+
+
 # passport-okta-oauth
 
 [Passport](http://passportjs.org/) strategies for authenticating with [Okta](https://www.okta.com/) using OAuth 2.0.
